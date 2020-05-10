@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practise</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="btn_notification">NOTIFICATION</string>
+    <string name="no_message">no message</string>
+    <string name="yes">YES</string>
+    <string name="me">I have Bachelor Degree in Computer Science from faculty of computers and information Cairo university
+,Have some projects in Java, Android SDK, done fetch data from API sits theguardian, themoviedb and others sites
+,have publish App in google paly https://play.google.com/store/apps/details?id=com.moskaoud.banisalamahtuktuk
+Have some practise in Codeforces for problem solving http://codeforces.com/submissions/Moskaoud
+Link for projects in CV hyperlinked
+https://github.com/Moskaoud/Movie-App
+</string>
+
+</resources>
